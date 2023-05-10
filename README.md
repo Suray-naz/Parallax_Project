@@ -7,7 +7,6 @@ Project aims to create parallax website.
 ## Project Skeletion 
 
 ```
-|
 |----readme.md         # Given to the students (Definition of the project)          
 |----images            # Given to the students (Images of the project)   
 |----solution
