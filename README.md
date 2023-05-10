@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Parallax Website
 ## Description:
 Project aims to create parallax website
@@ -25,3 +26,6 @@ Project aims to create parallax website
 - Overflow Property-The float Property-Opacity / Transparency-Units in CSS
 
 - CSS Setting height and width-CSS Outline-CSS Combinators
+=======
+# Parallax_Project
+>>>>>>> 8c9e121c093f1b3786c8b75775ff5da236f44463
