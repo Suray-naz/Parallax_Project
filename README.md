@@ -1,11 +1,8 @@
 # Parallax Website
-<<<<<<< HEAD
 ## Description
 Project aims to create parallax website
-=======
-## Description:Project aims to create parallax website
->>>>>>> bd5749fa0e3304fc84fd866c6f68689785129c08
 ---
+
 ## Project
 ![Parallax Website](./assets/Gif.gif)
 ## Project Skeleton 
