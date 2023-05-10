@@ -1,5 +1,5 @@
 # Parallax Website
-## Description:
+## Description
 Project aims to create parallax website
 ---
 ## Project
