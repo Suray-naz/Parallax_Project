@@ -14,7 +14,7 @@ Project aims to create parallax website.
         |----style.css   
         |----images
 ```
-### At the end of the project, following topics are to be covered;
+### At the end of the project, the following topics are to be covered;
 
 - HTML 
 
